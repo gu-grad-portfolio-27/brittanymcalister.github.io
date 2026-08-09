@@ -68,11 +68,23 @@ The final harvest totals are logged by hand each Thursday and Friday before bein
 As the midsummer sun rose over Southeast Washington, the volunteers cleaned their garden hoes and packed away the raw produce. For the operators and neighbors at THEARC Farm, every seed planted is a small step toward community self-reliance and a defense against preventable illness. 
 
 <style>
+p {
+  text-align: center !important;
+}
 img {
-display: block !important;
-width: 350px !important;
-height: 350px !important;
-object-fit: cover !important;
-margin: 20px auto !important;
+  display: block !important;
+  width: 350px !important;
+  height: 350px !important;
+  object-fit: cover !important;
+  margin: 20px auto 10px auto !important;
+}
+p + em, p:has(img) + p {
+  display: block !important;
+  font-size: 14px !important;
+  color: #555555 !important;
+  font-style: italic !important;
+  max-width: 450px !important;
+  margin: 0 auto 30px auto !important;
+  text-align: center !important;
 }
 </style>
