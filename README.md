@@ -74,9 +74,8 @@ background-size: cover !important;
 background-position: center !important;
 background-attachment: fixed !important;
 background-repeat: no-repeat !important;
-color: #ffffff !important;
 }
-h1, h2, h3, h4, h5, h6, p, em, span, a {
+.markdown-body, .markdown-body p, .markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body em, .markdown-body span, .markdown-body a {
 color: #ffffff !important;
 }
 p:has(img) {
