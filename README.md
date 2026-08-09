@@ -73,8 +73,8 @@ p:has(img) {
 }
 img {
   display: block !important;
-  width: 350px !important;
-  height: 350px !important;
+  width: 550px !important;
+  height: 550px !important;
   object-fit: cover !important;
   margin: 20px auto 10px auto !important;
 }
@@ -83,7 +83,7 @@ p + em, p:has(img) + p {
   font-size: 14px !important;
   color: #555555 !important;
   font-style: italic !important;
-  max-width: 450px !important;
+  max-width: 550px !important;
   margin: 0 auto 30px auto !important;
   text-align: center !important;
 }
