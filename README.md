@@ -75,3 +75,6 @@ object-fit: cover !important;
 object-position: center !important;
 }
 </style>
+
+}
+</style>
