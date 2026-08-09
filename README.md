@@ -69,9 +69,10 @@ As the midsummer sun rose over Southeast Washington, the volunteers cleaned thei
 
 <style>
 img {
-width: 100% !important;
-max-width: 800px !important;
-height: auto !important;
-object-fit: contain !important;
+display: block !important;
+width: 350px !important;
+height: 350px !important;
+object-fit: cover !important;
+margin: 20px auto !important;
 }
 </style>
