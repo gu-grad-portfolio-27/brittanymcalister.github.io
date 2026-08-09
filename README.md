@@ -75,8 +75,19 @@ background-position: center !important;
 background-attachment: fixed !important;
 background-repeat: no-repeat !important;
 }
-.markdown-body, .markdown-body p, .markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body em, .markdown-body span, .markdown-body a {
+.markdown-body {
+background: rgba(34, 61, 44, 0.85) !important; /* Elegant semi-transparent earthy green card */
+padding: 40px !important; /* Adds professional padding around your text */
+border-radius: 12px !important; /* Rounds the corners of your container card */
+max-width: 850px !important; /* Keeps the article perfectly centered and balanced */
+margin: 40px auto !important;
+}
+.markdown-body, .markdown-body p, .markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body em, .markdown-body span {
 color: #ffffff !important;
+}
+.markdown-body a {
+color: #d67a43 !important; /* Beautiful, readable earthy terracotta orange */
+text-decoration: underline !important; /* Adds a clean underline to clearly signal a link */
 }
 p:has(img) {
 text-align: center !important;
