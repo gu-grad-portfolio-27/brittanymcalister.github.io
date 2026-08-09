@@ -74,6 +74,10 @@ background-size: cover !important;
 background-position: center !important;
 background-attachment: fixed !important;
 background-repeat: no-repeat !important;
+color: #ffffff !important;
+}
+h1, h2, h3, h4, h5, h6, p, em, span, a {
+color: #ffffff !important;
 }
 p:has(img) {
 text-align: center !important;
@@ -88,7 +92,6 @@ margin: 20px auto 10px auto !important;
 p + em, p:has(img) + p {
 display: block !important;
 font-size: 14px !important;
-color: #555555 !important;
 font-style: italic !important;
 max-width: 550px !important;
 margin: 0 auto 30px auto !important;
