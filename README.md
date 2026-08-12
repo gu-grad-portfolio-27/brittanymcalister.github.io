@@ -1,9 +1,9 @@
-<h1 style="color: #C05C3E !important; font-size: 24px !important; font-weight: bold !important; margin-bottom: 10px; border-bottom: none !important;">brittanymcalister.github.io</h1>  
+<div class="top-header">brittanymcalister.github.io</div>
 
-<h2 style="color: #ffffff !important; font-size: 28px !important; font-weight: bold !important; margin-top: 0px !important; margin-bottom: 25px !important; border-bottom: none !important;">Brittany McAlister's Graduate Portfolio</h2>
+# Brittany McAlister's Graduate Portfolio  
 
-* [<span style="color: #ffffff !important;">Read Article: Urban Farm Fights Chronic Illness</span>](Urban_Farm_Story.md)
-* [<span style="color: #ffffff !important;">Read Article: Aid Blocked at Gaza's Border</span>](Middle_East_Hunger_Crisis.md)
+* [Read Article: Urban Farm Fights Chronic Illness](Urban_Farm_Story.md)
+* [Read Article: Aid Blocked at Gaza's Border](Middle_East_Hunger_Crisis.md)
 
 <div class="copyright">
     &copy; 2026 Brittany McAlister. All rights reserved.
@@ -24,21 +24,39 @@ body {
     max-width: 650px !important;
     margin: 40px auto !important;
 }
-/* This completely hides GitHub's automatic hidden anchor buttons and highlight boxes */
+/* 1. COMPLETELY WIPE AWAY GITHUB'S HIDDEN HIGHLIGHT BOX LAYER */
 .markdown-body a.anchor, 
 .markdown-body h1 a,
-.markdown-body h2 a {
+.markdown-body h1::before {
     display: none !important;
+    background: transparent !important;
+    box-shadow: none !important;
 }
-/* Keeps the container text pure white */
-.markdown-body {
+/* 2. FORCE THE ORANGE LABELS HIGHER AND OVER THE SEPARATOR LINE */
+.top-header {
+    color: #C05C3E !important;
+    font-size: 16px !important;
+    font-weight: 500 !important;
+    margin-bottom: -15px !important; /* Pulls the white title back up close */
+    position: relative !important;
+    z-index: 10 !important;
+    background: transparent !important;
+    display: block !important;
+}
+/* 3. ALIGN THE MAIN PORTFOLIO TEXT TO MATCH YOUR NEWSPAPER ARTICLES */
+.markdown-body h1 {
+    color: #ffffff !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2) !important; /* Fits white line directly under the text */
+    padding-top: 25px !important; /* Pushes the main text clear below your orange label */
+    padding-bottom: 15px !important;
+    margin-top: 0px !important;
+}
+.markdown-body, .markdown-body a {
     color: #ffffff !important;
 }
-/* Sleek underline animation path when hovering over article links */
-.markdown-body ul li a:hover span {
+.markdown-body a:hover {
     text-decoration: underline !important;
 }
-/* Centered matching footer style rules for copyright signature */
 .copyright {
     text-align: center !important;
     margin-top: 40px !important;
