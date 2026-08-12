@@ -1,4 +1,4 @@
-# Urban Farm Fights Chronic Illness East of Anacostia River by Trading Labor for Free Organic Food  
+# Urban Farm Fights Chronic Illness East of Anacostia River by Trading Labor for Free Organic Food 
 By Brittany McAlister 
 / July 15, 2026
 
