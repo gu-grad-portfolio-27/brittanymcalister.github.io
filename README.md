@@ -1,6 +1,6 @@
-<div class="top-header">brittanymcalister.github.io</div> 
+<h1 style="color: #C05C3E !important; font-size: 16px !important; font-weight: 500 !important; margin-bottom: 5px !important; border: none !important; padding: 0 !important; background: transparent !important;">brittanymcalister.github.io</h1>
 
-<div class="main-title">Brittany McAlister's Graduate Portfolio</div>
+<h2 style="color: #ffffff !important; font-size: 32px !important; font-weight: bold !important; border-bottom: 1px solid rgba(255, 255, 255, 0.2) !important; padding-bottom: 15px !important; margin-bottom: 25px !important; margin-top: 0px !important; background: transparent !important;">Brittany McAlister's Graduate Portfolio</h2>
 
 * [Read Article: Urban Farm Fights Chronic Illness](Urban_Farm_Story.md)
 * [Read Article: Aid Blocked at Gaza's Border](Middle_East_Hunger_Crisis.md)
@@ -24,39 +24,20 @@ body {
     max-width: 650px !important;
     margin: 40px auto !important;
 }
-/* 1. COMPLETELY WIPE AWAY GITHUB'S DEFAULT SPACING LINES AND ANCHORS */
+/* This forces GitHub to hide its automatic anchor buttons and pink highlight boxes */
 .markdown-body a.anchor, 
-.markdown-body h1, 
-.markdown-body h2 {
+.markdown-body h1 a,
+.markdown-body h2 a {
     display: none !important;
 }
-/* 2. MATCH THE TOP ORANGE HEADER TO YOUR NEWS ARTICLES */
-.top-header {
-    color: #C05C3E !important;
-    font-size: 16px !important;
-    font-weight: 500 !important;
-    margin-bottom: 5px !important;
-    background: transparent !important;
-    display: block !important;
-}
-/* 3. LOCKS THE WHITE UNDERLINE EXACTLY UNDER THE MAIN TITLE */
-.main-title {
-    color: #ffffff !important;
-    font-size: 32px !important;
-    font-weight: bold !important;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.2) !important;
-    padding-bottom: 15px !important;
-    margin-bottom: 25px !important;
-    margin-top: 0px !important;
-}
-/* 4. KEEP THE LIST LINKS PERFECTLY PURE WHITE */
+/* Keep the list links perfectly pure white */
 .markdown-body, .markdown-body ul li a {
     color: #ffffff !important;
 }
 .markdown-body ul li a:hover {
     text-decoration: underline !important;
 }
-/* 5. VISUAL POSITIONING FOR THE COPYRIGHT FOOTER */
+/* Visual positioning for the copyright footer */
 .copyright {
     text-align: center !important;
     margin-top: 40px !important;
