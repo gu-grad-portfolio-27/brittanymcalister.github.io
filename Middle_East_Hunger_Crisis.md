@@ -154,16 +154,16 @@ text-align: center !important;
 }
 img {
 display: block !important;
-width: 550px !important;
-height: 550px !important;
-object-fit: cover !important;
+width: 100% !important;
+max-width: 770px !important;
+height: auto !important;
 margin: 20px auto 10px auto !important;
 }
 p + em, p:has(img) + p {
 display: block !important;
 font-size: 14px !important;
 font-style: italic !important;
-max-width: 550px !important;
+max-width: 770px !important;
 margin: 0 auto 30px auto !important;
 text-align: center !important;
 }
