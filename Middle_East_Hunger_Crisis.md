@@ -5,7 +5,7 @@ Humanitarian workers warn that sealed crossings, militia control, economic colla
 By Brittany McAlister 
 / August 12, 2026   
 
-<img width="1332" height="674" alt="Stacked_Bar_Graphic_A2" src="https://github.com/user-attachments/assets/15bf5613-1722-4d28-9188-37973172845a" />
+<img width="1332" alt="Stacked_Bar_Graphic_A2" src="https://github.com/user-attachments/assets/15bf5613-1722-4d28-9188-37973172845a" />
        
 A graphic created by Brittany McAlister for Georgetown University’s "Data Visualization," taught by Maureen Linke of The Washington Post
 
