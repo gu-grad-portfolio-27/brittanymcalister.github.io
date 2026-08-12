@@ -20,7 +20,10 @@ body {
 }
 .markdown-body, .markdown-body h1, .markdown-body a {
     color: #ffffff !important;
-}
+} 
+    .markdown-body hr + p {
+    text-align: center !important;
+    }    
 </style> 
 
 ***
