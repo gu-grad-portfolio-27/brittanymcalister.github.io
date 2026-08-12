@@ -1,5 +1,3 @@
-[brittanymcalister.github.io](https://github.io)
-
 # Brittany McAlister's Graduate Portfolio 
 
 * [Read Article: Urban Farm Fights Chronic Illness](Urban_Farm_Story.md)
