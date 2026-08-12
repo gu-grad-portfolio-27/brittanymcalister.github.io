@@ -5,7 +5,9 @@ Humanitarian workers warn that sealed crossings, militia control, economic colla
 By Brittany McAlister 
 / August 12, 2026 
 
-<img style="max-width: 100%; height: auto; display: block; margin: 20px auto;" alt="Stacked_Bar_Graphic_A2" src="/user-attachments/assets/b76ac34b-471a-4cb3-b853-07053d362099" />
+<img style="max-width: 100%; height: auto; display: block; margin: 20px auto;" alt="Stacked_Bar_Graphic_A2" src="https://github.com/user-attachments/assets/28880cca-c0a5-4e29-a269-8e626707a43d" />
+
+<img style="max-width: 100%; height: auto; display: block; margin: 20px auto;" alt="Stacked_Bar_Graphic_A2" src="hunger-chart.png" />
  
 A graphic created by Brittany McAlister for Georgetown University’s "Data Visualization," taught by Maureen Linke of The Washington Post
 
