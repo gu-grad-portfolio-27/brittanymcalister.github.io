@@ -1,4 +1,4 @@
-# Brittany McAlister's Portfolio
+# Brittany McAlister's Graduate Portfolio  
 
 * [Read Article: Urban Farm Fights Chronic Illness](Urban_Farm_Story.md)
 * [Read Article: Aid Blocked at Gaza's Border](Middle_East_Hunger_Crisis.md)
