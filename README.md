@@ -22,3 +22,6 @@ body {
     color: #ffffff !important;
 }
 </style> 
+
+***
+&copy; 2026 Brittany McAlister. All rights reserved. 
