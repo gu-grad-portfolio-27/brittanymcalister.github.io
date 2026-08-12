@@ -3,9 +3,9 @@
 Humanitarian workers warn that sealed crossings, militia control, economic collapse and shrinking global attention are pushing millions toward the crisis. New United Nations data show Gaza now faces the most severe hunger in the Middle East.  
 
 By Brittany McAlister 
-/ August 12, 2026   
-
-<img width="1332" height="600" alt="Stacked_Bar_Graphic_A2" src="https://github.com/user-attachments/assets/15bf5613-1722-4d28-9188-37973172845a" />
+/ August 12, 2026     
+ 
+<img width="1332" height="674" alt="Stacked_Bar_Graphic_A2" src="https://github.com/user-attachments/assets/3322600a-d9ed-4194-a518-5db2c862ee1c" />
          
 A graphic created by Brittany McAlister for Georgetown University’s "Data Visualization," taught by Maureen Linke of The Washington Post
 
