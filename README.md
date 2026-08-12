@@ -1,4 +1,6 @@
-# <span style="color: #C05C3E !important; font-size: 16px !important; font-weight: normal !important; display: block; margin-bottom: 20px;">brittanymcalister.github.io</span>Brittany McAlister's Graduate Portfolio   
+<h1 style="color: #C05C3E !important; font-size: 24px !important; font-weight: bold !important; margin-bottom: 10px; border-bottom: none !important;">brittanymcalister.github.io</h1>  
+
+<h2 style="color: #ffffff !important; font-size: 28px !important; font-weight: bold !important; margin-top: 0px !important; margin-bottom: 25px !important; border-bottom: none !important;">Brittany McAlister's Graduate Portfolio</h2>
 
 * [<span style="color: #ffffff !important;">Read Article: Urban Farm Fights Chronic Illness</span>](Urban_Farm_Story.md)
 * [<span style="color: #ffffff !important;">Read Article: Aid Blocked at Gaza's Border</span>](Middle_East_Hunger_Crisis.md)
@@ -22,17 +24,14 @@ body {
     max-width: 650px !important;
     margin: 40px auto !important;
 }
-/* 1. REMOVE HIGHLIGHTED DUPLICATE LINK */
+/* This completely hides GitHub's automatic hidden anchor buttons and highlight boxes */
 .markdown-body a.anchor, 
-.markdown-body h1 a {
+.markdown-body h1 a,
+.markdown-body h2 a {
     display: none !important;
 }
-/* 2. FORCE TOP HEADER TO BE EARTH ORANGE ONLY (NOT BLUE) */
-.markdown-body h1 span {
-    color: #C05C3E !important;
-}
-/* Keeps main portfolio text and headings pure white */
-.markdown-body h1, .markdown-body {
+/* Keeps the container text pure white */
+.markdown-body {
     color: #ffffff !important;
 }
 /* Sleek underline animation path when hovering over article links */
