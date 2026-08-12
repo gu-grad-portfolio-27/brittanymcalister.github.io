@@ -1,4 +1,6 @@
-# Brittany McAlister's Graduate Portfolio. 
+[brittanymcalister.github.io](https://github.io)
+
+# Brittany McAlister's Graduate Portfolio 
 
 * [Read Article: Urban Farm Fights Chronic Illness](Urban_Farm_Story.md)
 * [Read Article: Aid Blocked at Gaza's Border](Middle_East_Hunger_Crisis.md)
@@ -22,22 +24,16 @@ body {
     max-width: 650px !important;
     margin: 40px auto !important;
 }
-/* This targets ONLY the automatic repository title text at the very top */
-.markdown-body .package-meta a,
-.markdown-body a[id^="user-content-brittanymcalistergithubio"] {
-    color: #C05C3E !important;
-}
-/* Keep your main H1 portfolio title pure white */
-.markdown-body h1 {
-    color: #ffffff !important;
-}
-.markdown-body, .markdown-body a {
-    color: #ffffff !important;
-}
-.markdown-body a:hover {
+/* This colors your top link and your article links on hover */
+.markdown-body a {
     color: #C05C3E !important;
     text-decoration: underline !important;
 }
+/* This ensures your main portfolio headers stay pure white */
+.markdown-body h1, .markdown-body {
+    color: #ffffff !important;
+}
+/* Style and layout for your centered copyright footer */
 .copyright {
     text-align: center !important;
     margin-top: 40px !important;
