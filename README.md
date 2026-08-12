@@ -1,4 +1,4 @@
-# Brittany McAlister's Graduate Portfolio.          
+# Brittany McAlister's Graduate Portfolio. 
 
 * [Read Article: Urban Farm Fights Chronic Illness](Urban_Farm_Story.md)
 * [Read Article: Aid Blocked at Gaza's Border](Middle_East_Hunger_Crisis.md)
@@ -22,20 +22,22 @@ body {
     max-width: 650px !important;
     margin: 40px auto !important;
 }
-/* This makes the repository title/header link turn earthy terracotta orange */
-.markdown-body a.header-link, 
+/* This targets ONLY the automatic repository title text at the very top */
+.markdown-body .package-meta a,
+.markdown-body a[id^="user-content-brittanymcalistergithubio"] {
+    color: #C05C3E !important;
+}
+/* Keep your main H1 portfolio title pure white */
 .markdown-body h1 {
-    color: #C05C3E !important; 
+    color: #ffffff !important;
 }
 .markdown-body, .markdown-body a {
     color: #ffffff !important;
 }
-/* Hover effect for your article links */
 .markdown-body a:hover {
     color: #C05C3E !important;
     text-decoration: underline !important;
 }
-/* Style and color for your copyright footer at the bottom */
 .copyright {
     text-align: center !important;
     margin-top: 40px !important;
