@@ -5,10 +5,8 @@ Humanitarian workers warn that sealed crossings, militia control, economic colla
 By Brittany McAlister 
 / August 12, 2026 
 
-<img style="max-width: 100%; height: auto; display: block; margin: 20px auto;" alt="Stacked_Bar_Graphic_A2" src="https://github.com/user-attachments/assets/28880cca-c0a5-4e29-a269-8e626707a43d" />
-
-<img style="max-width: 100%; height: auto; display: block; margin: 20px auto;" alt="Stacked_Bar_Graphic_A2" src="hunger-chart.png" />
- 
+<img width="1332" height="674" alt="Stacked_Bar_Graphic_A2" src="https://github.com/user-attachments/assets/05576e1e-9236-44ae-a838-c13f0fb48773" /> 
+  
 A graphic created by Brittany McAlister for Georgetown University’s "Data Visualization," taught by Maureen Linke of The Washington Post
 
 WASHINGTON, D.C. (GEORGETOWN UNIVERSITY) — The hunger crisis in Gaza has reached a breaking point. Families are skipping meals, children are fainting in food lines, and aid trucks sit just miles away, unable to enter. For many humanitarian workers, the most painful part is knowing the food exists. But the people who need it most cannot reach it. 
