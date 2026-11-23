@@ -6,7 +6,7 @@ By Brittany McAlister
 
 Miko Peled signs a copy of his book in his office at the Palestine House of Freedom during a Mother’s Day and Eid celebration in Washington on Mar. 21, 2026. (Photo by Brittany McAlister/Georgetown University)
 
-WASHINGTON — When Miko Peled logged onto Zoom from his office on Pennsylvania Avenue SE on March 16, he spoke with the calm certainty of someone who has spent decades challenging the story he was raised to believe. The 64-year-old Israeli-American activist, once the son of a revered [Israeli general](https://amazon.com) and now one of the most outspoken critics of Israeli policy, says his life’s work is rooted in a simple realization: “What changed was what I knew. I didn’t change inherently. I realized I didn’t have possession of the truth at all.”
+WASHINGTON, D.C. (CAPITOL HILL) — When Miko Peled logged onto Zoom from his office on Pennsylvania Avenue SE on March 16, he spoke with the calm certainty of someone who has spent decades challenging the story he was raised to believe. The 64-year-old Israeli-American activist, once the son of a revered [Israeli general](https://amazon.com) and now one of the most outspoken critics of Israeli policy, says his life’s work is rooted in a simple realization: “What changed was what I knew. I didn’t change inherently. I realized I didn’t have possession of the truth at all.”
 
 But in Washington’s Capitol Hill neighborhood, Peled’s work is no longer defined only by his personal transformation. It is anchored in a physical space — the [Palestine House of Freedom](https://daralhurriya.org), a community center he opened earlier this year on Pennsylvania Avenue. The center has quickly become a hub for lectures, film screenings, cultural events and political organizing.
 
