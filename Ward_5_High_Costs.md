@@ -1,6 +1,6 @@
 # ‘We’re Paying the Price for Their Policies’: Ward 5 Residents Struggle With High Costs for Household Essentials
 By Brittany McAlister 
-/ November 22, 2026
+/ November 22, 2026 
 
 <img width="1600" height="1200" alt="Ward_5_Image1" src="https://github.com/user-attachments/assets/7d0a296e-49c8-4d12-89c4-fb8ea76965cd" />
 
