@@ -5,7 +5,7 @@ By Brittany McAlister
 
 <img width="2048" height="1169" alt="image-2" src="https://github.com/user-attachments/assets/30a038ef-1878-4d6b-a8b7-23ea2a5a5311" />
 
-Trinity Washington University president Patricia McGuire speaks during a Zoom call on March 27, 2026. (Screenshot by Brittany McAlister, Georgetown University journalism master's student)
+Trinity Washington University president Patricia McGuire speaks during a Zoom call on March 27, 2026. McGuire is an alumna of both Trinity Washington University and Georgetown University, where she earned her undergraduate and graduate degrees, respectively. (Screenshot by Brittany McAlister, Georgetown University journalism master's student)
 
 WASHINGTON, D.C. (TRINITY WASHINGTON UNIVERSITY) — At a time when many college presidents are retreating from public debate, Patricia “Pat” McGuire is doing something increasingly rare in [higher education](https://www.usnews.com/news/national-news/articles/trumps-higher-education-crackdown-visa-revocations-dei-bans-lawsuits-and-funding-cuts): she’s raising her voice. 
 
