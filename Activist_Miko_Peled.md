@@ -1,12 +1,13 @@
 # From General’s Son to Capitol Hill Activist: Miko Peled’s Unwavering Fight for Palestinian Freedom
 By Brittany McAlister 
-/ May 10, 2026
+/ Graduate Studies Journalism Portfolio 
+/ November 22, 2026
 
 <img width="2048" height="1536" alt="Miko_Peled_Image1" src="https://github.com/user-attachments/assets/1b8d3081-e74d-4dea-a38d-10fc8087c6f7" />
 
-Miko Peled signs a copy of his book in his office at the Palestine House of Freedom during a Mother’s Day and Eid celebration in Washington on Mar. 21, 2026. (Photo by Brittany McAlister/Georgetown University)
+Miko Peled sits at his desk inside his office at the Palestine House of Freedom in Washington on March 21, 2026, signing a copy of his book during a Mother’s Day and Eid celebration. (Photo by Brittany McAlister, Georgetown University journalism master's student)
 
-WASHINGTON, D.C. (CAPITOL HILL) — When Miko Peled logged onto Zoom from his office on Pennsylvania Avenue SE on March 16, he spoke with the calm certainty of someone who has spent decades challenging the story he was raised to believe. The 64-year-old Israeli-American activist, once the son of a revered [Israeli general](https://amazon.com) and now one of the most outspoken critics of Israeli policy, says his life’s work is rooted in a simple realization: “What changed was what I knew. I didn’t change inherently. I realized I didn’t have possession of the truth at all.”
+WASHINGTON, D.C. (CAPITOL HILL) — When Miko Peled logged onto Zoom from his office on Pennsylvania Avenue SE, he spoke with the calm certainty of someone who has spent decades challenging the story he was raised to believe. The 64-year-old Israeli-American activist, once the son of a revered [Israeli general](https://amazon.com) and now one of the most outspoken critics of Israeli policy, says his life’s work is rooted in a simple realization: “What changed was what I knew. I didn’t change inherently. I realized I didn’t have possession of the truth at all.”
 
 But in Washington’s Capitol Hill neighborhood, Peled’s work is no longer defined only by his personal transformation. It is anchored in a physical space — the [Palestine House of Freedom](https://daralhurriya.org), a community center he opened earlier this year on Pennsylvania Avenue. The center has quickly become a hub for lectures, film screenings, cultural events and political organizing.
 
@@ -14,7 +15,7 @@ It has also become a gathering place for Palestinian families in the region. Mun
 
 <img width="2048" height="1536" alt="Miko_Peled_Image2" src="https://github.com/user-attachments/assets/b75006ec-e89b-4a40-b120-cca4710ea435" />
 
-Palestinian and District of Columbia flags hang side by side on the exterior of the Palestine House of Freedom in Washington on Mar. 21, 2026. (Photo by Brittany McAlister/Georgetown University)
+Palestinian and District of Columbia flags hang side by side on the exterior of the Palestine House of Freedom in Washington’s Capitol Hill neighborhood on March 21, 2026. (Photo by Brittany McAlister, Georgetown University journalism master's student)
 
 “Being part of the Palestinian diaspora, it is critically important for us to be able to pass our culture on to the next generation,” she said. “We brought my son today so that he can celebrate his Palestinian culture and the beauty of it.”
 
@@ -40,11 +41,11 @@ His political shift began in the early 2000s, when he joined dialogue groups in 
 
 <img width="1585" height="2048" alt="Miko_Peled_Image3" src="https://github.com/user-attachments/assets/5349d545-7de3-4b61-aa85-c80742199445" />
 
-A copy of author Miko Peled’s book, "The General’s Son: Journey of an Israeli in Palestine," sits on display at the Palestine House of Freedom in Washington on Mar. 21, 2026. (Photo by Brittany McAlister/Georgetown University)
+A copy of author Miko Peled’s book "The General’s Son: Journey of an Israeli in Palestine" sits on display at the Palestine House of Freedom in Washington on March 21, 2026. (Photo by Brittany McAlister, Georgetown University journalism master's student)
 
 <img width="1536" height="2048" alt="Miko_Peled_Image4" src="https://github.com/user-attachments/assets/2d58a456-1cc7-4cdd-96da-e4d3e0e4f591" />
 
-Author Miko Peled’s inscription, reading " ... Free Palestine! ... " appears inside a copy of "The General’s Son: Journey of an Israeli in Palestine" at the Palestine House of Freedom in Washington on Mar. 21, 2026. (Photo by Brittany McAlister/Georgetown University)
+Author Miko Peled’s inscription, reading "... Free Palestine! ...," appears inside an autographed copy of "The General’s Son: Journey of an Israeli in Palestine" at the Palestine House of Freedom in Washington on March 21, 2026. (Photo by Brittany McAlister, Georgetown University journalism master's student)
 
 One of the most defining moments in Peled’s activism came at a West Bank checkpoint, where soldiers pulled him off a bus and held him for hours in a freezing, open-air room.
 
