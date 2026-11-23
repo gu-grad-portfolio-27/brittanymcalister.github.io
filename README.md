@@ -8,7 +8,7 @@
 
 ## About
 
-Brittany McAlister is a master's degree candidate in journalism at Georgetown University who focuses on international reporting, humanitarian crises, and public policy. She aims to become a foreign correspondent and cares about straightforward, factual reporting on how global conflicts affect everyday civilians in regions like Syria, Cambodia, Ukraine, Iran, Mexico, and Palestine. She currently writes for Georgetown’s international affairs student newspaper, The Caravel, as well as the Washington Report on Middle East Affairs. She holds a bachelor's degree in journalism from Trinity Washington University.
+Brittany McAlister is a master's degree candidate in journalism at Georgetown University who focuses on international reporting, humanitarian crises, and public policy. She aims to become a foreign correspondent and cares about straightforward, factual reporting on how global conflicts affect everyday civilians in regions like Syria, Cambodia, Ukraine, Iran, Mexico, and Palestine. She currently writes for Georgetown’s international affairs student newspaper, [The Caravel](https://www.thecaravelgu.com/authors/bmcalister), as well as the [Washington Report on Middle East Affairs](https://www.wrmea.org/search.html?searchword=Brittany%20McAlister&searchphrase=all). She holds a bachelor's degree in journalism from Trinity Washington University.
 
 <style>
 body {
