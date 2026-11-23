@@ -7,7 +7,7 @@ By Brittany McAlister
 
 Trinity Washington University president Patricia McGuire speaks during a Zoom call on March 27, 2026. (Screenshot by Brittany McAlister, Georgetown University journalism master's student)
 
-WASHINGTON, D.C. (GEORGETOWN UNIVERSITY) — At a time when many college presidents are retreating from public debate, Patricia “Pat” McGuire is doing something increasingly rare in [higher education](https://www.usnews.com/news/national-news/articles/trumps-higher-education-crackdown-visa-revocations-dei-bans-lawsuits-and-funding-cuts): she’s raising her voice. 
+WASHINGTON, D.C. (TRINITY WASHINGTON UNIVERSITY) — At a time when many college presidents are retreating from public debate, Patricia “Pat” McGuire is doing something increasingly rare in [higher education](https://www.usnews.com/news/national-news/articles/trumps-higher-education-crackdown-visa-revocations-dei-bans-lawsuits-and-funding-cuts): she’s raising her voice. 
 
 On March 27, during a Zoom interview from her office at Trinity Washington University, McGuire adjusted her webcam, pushed a stack of papers just out of frame, and immediately launched into a critique of what she calls higher education’s “culture of caution.”
 
