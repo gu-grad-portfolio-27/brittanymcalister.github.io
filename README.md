@@ -4,7 +4,7 @@
 * [Read Article: Aid Blocked at Gaza's Border](Middle_East_Hunger_Crisis.md)
 * [Read Article: 'We're Paying the Price for Their Policies'](Ward_5_High_Costs.md)
 * [Read Article: When College Presidents Go Silent, One D.C. Leader](DC_College_President.md)
-
+  
 <style>
 body {
     background-image: url("Georgetown_042026.jpeg") !important;
