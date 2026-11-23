@@ -1,10 +1,11 @@
 # When College Presidents Go Silent, One D.C. Leader Refuses to Step Back 
-By Brittany McAlister
-/ April 26, 2026 
+By Brittany McAlister 
+/ Graduate Studies Journalism Portfolio
+/ November 22, 2026 
 
 <img width="2048" height="1169" alt="image-2" src="https://github.com/user-attachments/assets/30a038ef-1878-4d6b-a8b7-23ea2a5a5311" />
 
-Trinity Washington University President Patricia McGuire speaks during a Zoom call on Mar. 27, 2026. (Screenshot by Brittany McAlister for Georgetown University's Reporting And News Writing)
+Trinity Washington University president Patricia McGuire speaks during a Zoom call on March 27, 2026. (Screenshot by Brittany McAlister, Georgetown University journalism master's student)
 
 WASHINGTON, D.C. (GEORGETOWN UNIVERSITY) — At a time when many college presidents are retreating from public debate, Patricia “Pat” McGuire is doing something increasingly rare in [higher education](https://www.usnews.com/news/national-news/articles/trumps-higher-education-crackdown-visa-revocations-dei-bans-lawsuits-and-funding-cuts): she’s raising her voice. 
 
@@ -18,9 +19,9 @@ Meanwhile, an [Inside Higher Ed survey](https://www.aei.org/commentary/survey-re
 
 “Presidents are being told to stay in their lane,” said Provost Carlota Ocampo. “But the lane keeps getting narrower.”
 
-<img width="2048" height="2048" alt="image-3" src="https://github.com/user-attachments/assets/69efa017-9111-40ff-a219-9d282cc3f1a0" />
+<img width="2048" height="2048" alt="image-3" src="https://github.com/user-attachments/assets/69efa017-9111-40ff-a219-9d282cc3f1a0" /> 
 
-Provost Carlota Ocampo sits in her office on Sept. 23, 2024. (Photo by Brittany McAlister)
+Trinity Washington University provost Carlota Ocampo sits in her office in Washington on Sept. 23, 2024. (Photo by Brittany McAlister, Georgetown University journalism master's student)
 
 Although neutrality policies are becoming more common, many students and even faculty don’t fully understand what they do. In practice, these policies restrict university leaders from making official statements on political, social, or global events unless the issue directly affects the institution’s operations.
 
@@ -42,7 +43,7 @@ Tirunellayi said neutrality can make sense in small matters, but not when core v
 
 <img width="589" height="383" alt="image" src="https://github.com/user-attachments/assets/b3f19c7c-8ec7-4998-b8bf-d3fb599d9627" />
 
-Georgetown University health care management and policy student Ashwath Tirunellayi poses for a photo. (Photo by [ottodierig](https://www.instagram.com/ottodierig?igsh=MWE4M3psa2Nna2tu))
+Georgetown University health care management and policy student Ashwath Tirunellayi poses for a photo on campus in Washington. (Undated handout photo by @ottodierig, courtesy of Ashwath Tirunellayi)
 
 He pointed to a recent Georgetown controversy as an example.
 
@@ -118,7 +119,7 @@ During the COVID‐19 pandemic, she directed federal emergency funds to students
 
 <img width="2048" height="2048" alt="image-4" src="https://github.com/user-attachments/assets/61b17257-11ea-457f-8052-65cd95bf1a13" />
 
-Martha Molina sits in her office on Sept. 23, 2024. (Photo by Brittany McAlister)
+Financial aid director Martha Molina sits at her desk in her office at Trinity Washington University in Washington on Sept. 23, 2024. (Photo by Brittany McAlister, Georgetown University journalism master's student)
 
 Her advocacy has also shaped Trinity’s academic direction. Dean Sita Ramamurti said McGuire’s leadership pushed the College of Arts & Sciences to dismantle traditional academic barriers and expand access for first‐generation and underrepresented students.
 
