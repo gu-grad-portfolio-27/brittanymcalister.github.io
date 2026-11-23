@@ -2,9 +2,9 @@
 By Brittany McAlister
 / April 26, 2026 
 
-<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/de2154f2-d3b3-402a-91ee-17e474364c33" />
+<img width="2048" height="1169" alt="image-2" src="https://github.com/user-attachments/assets/30a038ef-1878-4d6b-a8b7-23ea2a5a5311" />
 
-Georgetown University’s campus is seen in Washington on Jan. 5, 2026. (Photo by Rebecca Romero, a Georgetown journalism master’s student)
+Trinity Washington University President Patricia McGuire speaks during a Zoom call on March 27, 2026. (Screenshot by Brittany McAlister for Georgetown University's Reporting And News Writing)
 
 WASHINGTON, D.C. (GEORGETOWN UNIVERSITY) — At a time when many college presidents are retreating from public debate, Patricia “Pat” McGuire is doing something increasingly rare in [higher education](https://www.usnews.com/news/national-news/articles/trumps-higher-education-crackdown-visa-revocations-dei-bans-lawsuits-and-funding-cuts): she’s raising her voice. 
 
@@ -13,10 +13,6 @@ On March 27, during a Zoom interview from her office at Trinity Washington Unive
 “Silence is not leadership,” she said. “Not now.” 
 
 Across the country, college presidents are speaking less as [political pressure](https://www.chronicle.com/package/leadership-issue-2025), donor scrutiny, and new “institutional neutrality” policies reshape what leaders feel safe saying in public. By the end of 2024, at least 148 institutions serving roughly [2.6 million](https://content.heterodoxacademy.org/uploads/HxA_Statement-Neutrality-Report_FINAL.pdf) students had adopted neutrality rules, and national surveys show many presidents feel caught between lawmakers, donors, and campus constituencies. In a sector growing more cautious, McGuire stands out as one of the few presidents still willing to take public positions on issues of race, democracy, and social justice.
-
-<img width="2048" height="1169" alt="image-2" src="https://github.com/user-attachments/assets/30a038ef-1878-4d6b-a8b7-23ea2a5a5311" />
-
-Trinity Washington University President Patricia McGuire speaks during a Zoom call on March 27, 2026. (Screenshot by Brittany McAlister for Georgetown University's Reporting And News Writing)
 
 Meanwhile, an [Inside Higher Ed survey](https://www.aei.org/commentary/survey-reveals-college-and-university-presidents-failing-to-adopt-neutrality-policies/) reported that only 29% of presidents say their institution has a neutrality policy, while 66% say they do not and many of those leaders report feeling caught between political actors, donors, and campus constituencies. 
 
