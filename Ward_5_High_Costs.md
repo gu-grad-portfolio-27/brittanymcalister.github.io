@@ -12,7 +12,7 @@ WASHINGTON, D.C. (NOMA) — In Washington’s Ward 5, rising costs on everyday h
 
 <img width="1600" height="1200" alt="Ward_5_Image2" src="https://github.com/user-attachments/assets/4722a6cc-bfc7-48db-80f2-3af7c776a2dc" />
 
-Ward 5 resident George Porter sits on a bench in Washington's Eckington neighborhood on a warm, sunny afternoon on Aug. 8, 2025. (Photo by Brittany McAlister, Georgetown University journalism master's student)
+Ward 5 resident George Porter sits on a bench in Washington's Eckington neighborhood during a warm, sunny afternoon on Aug. 8, 2025, drinking a Coca-Cola. (Photo by Brittany McAlister, Georgetown University journalism master's student)
 
 Porter, a retired maintenance worker who has lived in Ward 5 for more than 30 years, said store prices have climbed faster and more unpredictably than he has ever seen.
 
