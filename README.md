@@ -5,7 +5,11 @@
 * [Read Article: 'We're Paying the Price for Their Policies'](Ward_5_High_Costs.md)
 * [Read Article: When College Presidents Go Silent, One D.C. Leader](DC_College_President.md)
 * [Read Article: From General’s Son to Capitol Hill Activist](Activist_Miko_Peled.md)
-  
+
+## About
+
+Brittany McAlister is a journalism master's student at Georgetown University focusing on international reporting, humanitarian crises and public policy. She aims to become a foreign correspondent and is committed to straightforward, factual reporting on how global conflicts affect everyday people — covering crises from Ukraine to Palestine and Cambodia. She currently writes for Georgetown’s international affairs student newspaper, The Caravel, as well as the Washington Report on Middle East Affairs. She holds a bachelor's degree in journalism from Trinity Washington University.
+
 <style>
 body {
     background-image: url("Georgetown_042026.jpeg") !important;
