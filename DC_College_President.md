@@ -42,7 +42,7 @@ Tirunellayi said neutrality can make sense in small matters, but not when core v
 
 <img width="589" height="383" alt="image" src="https://github.com/user-attachments/assets/b3f19c7c-8ec7-4998-b8bf-d3fb599d9627" />
 
-Georgetown University health care management and policy student Ashwath Tirunellayi poses for a photo. (Photo by [ottodierig])(https://www.instagram.com/ottodierig?igsh=MWE4M3psa2Nna2tu)
+Georgetown University health care management and policy student Ashwath Tirunellayi poses for a photo. (Photo by [ottodierig](https://www.instagram.com/ottodierig?igsh=MWE4M3psa2Nna2tu))
 
 He pointed to a recent Georgetown controversy as an example.
 
