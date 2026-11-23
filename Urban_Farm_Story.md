@@ -1,5 +1,6 @@
 # Urban Farm Fights Chronic Illness East of Anacostia River by Trading Labor for Free Organic Food 
 By Brittany McAlister 
+/ Graduate Studies Journalism Portfolio
 / July 15, 2026
 
 <img width="5712" height="4284" alt="THEARC_Farm_Image1" src="https://github.com/user-attachments/assets/046ea282-19e5-435e-b898-8eea7cc1ef0f" />
