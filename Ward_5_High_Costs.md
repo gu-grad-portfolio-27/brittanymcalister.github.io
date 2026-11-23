@@ -4,7 +4,7 @@ By Brittany McAlister
 
 <img width="1600" height="1200" alt="Ward_5_Image1" src="https://github.com/user-attachments/assets/7d0a296e-49c8-4d12-89c4-fb8ea76965cd" />
 
-Ralph Graham, who is unhoused, stands outside a Trader Joe's in Washington’s NoMa neighborhood. (Brittany McAlister/Georgetown University)
+Ralph Graham, who is homeless, sits outside a Trader Joe's in Washington’s NoMa neighborhood on Aug. 8, 2025, holding a sign that reads, "Good Morning... Can Anyone Help For Ice Water." (Photo by Brittany McAlister, Georgetown University journalism master's student) 
 
 WASHINGTON, D.C. (NOMA) — In Washington’s Ward 5, rising costs on everyday household goods are straining family budgets. Residents say corporate pricing decisions and federal tariffs have driven up the cost of essentials like toilet paper, laundry detergent and dish soap, forcing difficult choices at the checkout counter.
 
@@ -12,7 +12,7 @@ WASHINGTON, D.C. (NOMA) — In Washington’s Ward 5, rising costs on everyday h
 
 <img width="1600" height="1200" alt="Ward_5_Image2" src="https://github.com/user-attachments/assets/4722a6cc-bfc7-48db-80f2-3af7c776a2dc" />
 
-George Porter sits on a bench in Washington’s Eckington neighborhood. (Brittany McAlister/Georgetown University)
+Ward 5 resident George Porter sits on a bench in Washington's Eckington neighborhood on a warm, sunny afternoon on Aug. 8, 2025. (Photo by Brittany McAlister, Georgetown University journalism master's student)
 
 Porter, a retired maintenance worker who has lived in Ward 5 for more than 30 years, said store prices have climbed faster and more unpredictably than he has ever seen.
 
@@ -54,7 +54,7 @@ Procter & Gamble has defended its pricing decisions, citing [higher costs](https
 
 <img width="1600" height="1200" alt="Ward_5_Image3" src="https://github.com/user-attachments/assets/d2c5fb85-355e-46de-ad57-9e646c28a981" />
 
-An unhoused resident sits outside a 7-Eleven store in Washington’s NoMa neighborhood. (Brittany McAlister/Georgetown University)
+A homeless man sits outside a 7-Eleven store in Washington's NoMa neighborhood on Aug. 8, 2025, with two cups of coffee, a pack of cigarettes and a cigarette lighter in his hand. (Photo by Brittany McAlister, Georgetown University journalism master's student)
 
 “We’re not asking for handouts,” Porter said. “We’re asking for fairness.”
 
