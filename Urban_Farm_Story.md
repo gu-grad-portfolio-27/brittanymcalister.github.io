@@ -5,7 +5,7 @@ By Brittany McAlister
 
 <img width="5712" height="4284" alt="THEARC_Farm_Image1" src="https://github.com/user-attachments/assets/046ea282-19e5-435e-b898-8eea7cc1ef0f" />
 
-A sign inside THEARC Farm reads, "THEARC Farm straight ahead!" The photo was taken in Southeast Washington, D.C., on July 14, 2026. (Brittany McAlister/Georgetown University)
+A sign inside THEARC Farm reads, "THEARC Farm straight ahead!" in southeast Washington on July 14, 2026. (Photo by Brittany McAlister, Georgetown University journalism master's student)
 
 WASHINGTON, D.C. (CONGRESS HEIGHTS), Jul. 14, 2026 — A critical shortage of [volunteers](https://www.eventbrite.com/e/volunteer-at-thearc-farm-tuesdays-2026-tickets-1983875767826?aff=erellivmlt) at a Southeast Washington urban farm is threatening a vital public health pipeline that provides free organic produce to thousands of families in the city’s most under-resourced neighborhoods.
 
@@ -19,7 +19,7 @@ J.J. Boone, the [deputy director](https://buildingbridgesdc.org/building-bridges
 
 <img width="5712" height="4284" alt="THEARC_Farm_Image2" src="https://github.com/user-attachments/assets/12aaaee9-bd10-4e48-a71d-0e8c1da7afab" />
 
-J.J. Boone, THEARC Farm’s deputy director, smiles for a photo in Southeast Washington, D.C., on July 14, 2026. (Brittany McAlister/Georgetown University)
+J. J. Boone, THEARC Farm’s deputy director, smiles for a photo in southeast Washington on July 14, 2026. (Photo by Brittany McAlister, Georgetown University journalism master's student) 
 
 "We rely heavily on volunteers to keep things going," Boone said. "I'm literally here every single day, Monday through Friday, and when the volunteers aren't here, it's just me. There have been times where we've been short or nobody shows up, and when that happens, the labor relies solely on me and my colleague. There is only so much two hands can get done."
 
@@ -31,7 +31,7 @@ For the people working the dirt, the farm provides a dual benefit of immediate p
 
 <img width="5712" height="4284" alt="THEAR_Farm_Image3" src="https://github.com/user-attachments/assets/ec014f08-953e-4748-b47f-43e0d85c09b0" />
 
-Organic THEARC Farm potatoes are grown, pulled and prepared for distribution to feed residents of Wards 7 and 8 every Friday. The photo was taken in Southeast Washington, D.C., on July 14, 2026. (Brittany McAlister/Georgetown University)
+Organic potatoes sit at THEARC Farm in southeast Washington on July 14, 2026. The farm grows, harvests and prepares the produce for distribution every Friday to feed residents of Wards 7 and 8. (Photo by Brittany McAlister, Georgetown University journalism master's student)
 
 Cameron Chohan, a local schoolteacher who moved to Anacostia with his wife two and a half years ago, spent his morning pulling potatoes and clipping okra. As an educator who teaches children from Wards 7 and 8, he sees how deep the nutritional divide runs between different parts of the city.
 
@@ -41,8 +41,7 @@ The Safeway at Hechinger Mall near Maryland Avenue and Benning Road NE closed [M
 
 <img width="4032" height="3024" alt="THEARC_Farm_Image4" src="https://github.com/user-attachments/assets/44187ed1-688b-4837-aa1d-2e7e5cf623e9" />
 
-Two signs in yellow and blue read, "THEARC Town Hall Education Arts Recreation Campus." The photo was taken in Southeast Washington, D.C., on July 14, 2026. (Brittany McAlister/Georgetown University)
-
+Two signs in yellow and blue read "THEARC Town Hall Education Arts Recreation Campus" in southeast Washington on July 14, 2026. (Photo by Brittany McAlister, Georgetown University journalism master's student)
 
 Chohan noted that his school provides free and reduced-price lunches to help students get balanced meals, but expiration dates mean raw food often goes to waste. He routinely packages leftover apples and vegetables to send home to families who lack access to fresh food markets.
 
@@ -58,7 +57,7 @@ This fast-food habit marks a massive shift from how older generations grew up. W
 
 <img width="4032" height="3024" alt="THEARC_Farm_Image5" src="https://github.com/user-attachments/assets/3f32c4e9-9ca4-4cc3-815a-a0d83c7f3cd1" />
 
-A view of THEARC Farm in Southeast Washington, D.C. on July 14, 2026. (Brittany McAlister/Georgetown University)
+Rows of crops grow at THEARC Farm in southeast Washington on July 14, 2026. (Photo by Brittany McAlister, Georgetown University journalism master's student)
 
 Mitr said his physical experience working on the property has forced him to re-evaluate his own lifestyle habits. Since working with the crops, he has cut out junk food, started exercising, and added raw fruits to his daily routine. Living in a [food deserted](https://www.dcpolicycenter.org/publications/food-access-dc-deeply-connected-poverty-transportation/) community, he has seen his fair share of unhealthy eating habits. 
 
