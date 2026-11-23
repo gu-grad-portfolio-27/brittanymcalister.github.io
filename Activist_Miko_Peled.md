@@ -89,7 +89,6 @@ For Peled, the work is far from over. But he believes the current moment is pivo
 © 2026 Brittany McAlister. All rights reserved. 
 No reuse, copying, or modification of this story or its assets is permitted without explicit permission.
 
-
 <style>
 body {
 background-image: url("Georgetown_042026.jpeg") !important;
@@ -109,3 +108,25 @@ margin: 40px auto !important;
 color: #ffffff !important;  
 }
 .markdown-body a {
+color: #d67a43 !important; /* Beautiful, readable earthy terracotta orange */
+text-decoration: underline !important; /* Adds a clean underline to clearly signal a link */
+}
+p:has(img) {
+text-align: center !important;
+}
+img {
+display: block !important;
+width: 550px !important;
+height: 550px !important;
+object-fit: cover !important;
+margin: 20px auto 10px auto !important;
+}
+p + em, p:has(img) + p {
+display: block !important;
+font-size: 14px !important;
+font-style: italic !important;
+max-width: 550px !important;
+margin: 0 auto 30px auto !important;
+text-align: center !important;
+}
+</style>
