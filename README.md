@@ -3,7 +3,7 @@
 * [Read Article: Urban Farm Fights Chronic Illness](Urban_Farm_Story.md)
 * [Read Article: Aid Blocked at Gaza's Border](Middle_East_Hunger_Crisis.md)
 * [Read Article: 'We're Paying the Price for Their Policies'](Ward_5_High_Costs.md)
-* [Read Article: When College Presidents Go Silent, One D.C. Leader](DC_College_President.md) 
+* [Read Article: When College Presidents Go Silent, One D.C. Leader](DC_College_President.md)
 
 <style>
 body {
