@@ -97,10 +97,10 @@ body {
     max-width: 850px !important;
     margin: 40px auto !important;
 }
-.markdown-body, .markdown-body p, .markdown-body h1, .markdown-body h3, .markdown-body em, .markdown-body span, .markdown-body li {
+.markdown-body, .markdown-body p, .markdown-body h1, .markdown-body h2, .markdown-body em, .markdown-body span, .markdown-body li {
     color: #ffffff !important;  
 } 
-.markdown-body h2 {
+.markdown-body h3 {
     color: #d67a43 !important;
 }
 .markdown-body a {
