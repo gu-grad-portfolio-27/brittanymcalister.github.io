@@ -1,11 +1,11 @@
 # Brittany McAlister's Graduate Portfolio  
 
-* [Read Article: Urban Farm Fights Chronic Illness](Urban_Farm_Story.md)
-* [Read Article: Aid Blocked at Gaza's Border](Middle_East_Hunger_Crisis.md)
-* [Read Article: 'We're Paying the Price for Their Policies'](Ward_5_High_Costs.md)
-* [Read Article: When College Presidents Go Silent, One D.C. Leader](DC_College_President.md)
-* [Read Article: From General’s Son to Capitol Hill Activist](Activist_Miko_Peled.md)
-* [Read Article: Inside the Health Beat: Health Beat Reporters](Health_Beat_Reporters.md) 
+* [Read Article: Urban Farm Fights Chronic Illness East of Anacostia River by Trading Labor for Free Organic Food](Urban_Farm_Story.md)
+* [Read Article: “They Shut Everything Down”: Aid Blocked at Gaza’s Border as Hunger Reaches Crisis Levels](Middle_East_Hunger_Crisis.md)
+* [Read Article: ‘We’re Paying the Price for Their Policies’: Ward 5 Residents Struggle With High Costs for Household Essentials](Ward_5_High_Costs.md)
+* [Read Article: When College Presidents Go Silent, One D.C. Leader Refuses to Step Back](DC_College_President.md)
+* [Read Article: From General’s Son to Capitol Hill Activist: Miko Peled’s Unwavering Fight for Palestinian Freedom](Activist_Miko_Peled.md)
+* [Read Article: Inside the Health Beat: How Two Washington Reporters Track the Money, Cut the Jargon and Survive the News Cycle](Health_Beat_Reporters.md) 
       
 ## About
 
