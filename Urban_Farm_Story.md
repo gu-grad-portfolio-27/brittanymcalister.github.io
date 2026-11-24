@@ -72,7 +72,6 @@ As the midsummer sun rose over Southeast Washington, the volunteers cleaned thei
 © 2026 Brittany McAlister. All rights reserved. 
 No reuse, copying, or modification of this story or its assets is permitted without explicit permission.
 
-
 <style>
 body {
 background-image: url("Georgetown_042026.jpeg") !important;
