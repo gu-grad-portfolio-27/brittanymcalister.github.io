@@ -127,7 +127,6 @@ Her final words showed just how large the crisis has become.
 © 2026 Brittany McAlister. All rights reserved. 
 No reuse, copying, or modification of this story or its assets is permitted without explicit permission.
 
-
 <style>
 body {
 background-image: url("Georgetown_042026.jpeg") !important;
