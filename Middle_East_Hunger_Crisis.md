@@ -3,11 +3,12 @@
 Humanitarian workers warn that sealed crossings, militia control, economic collapse and shrinking global attention are pushing millions toward the crisis. New United Nations data show Gaza now faces the most severe hunger in the Middle East.  
 
 By Brittany McAlister 
+/ Graduate Studies Journalism Portfolio
 / August 12, 2026     
  
 <img width="1332" height="674" alt="Stacked_Bar_Graphic_A2" src="https://github.com/user-attachments/assets/3322600a-d9ed-4194-a518-5db2c862ee1c" />
          
-A graphic created by Brittany McAlister for Georgetown University’s "Data Visualization," taught by Maureen Linke of The Washington Post
+A stacked bar chart illustrates the percentage of people facing crisis and emergency levels of food insecurity in parts of Palestine, Yemen and Lebanon in 2026, based on Integrated Food Security Phase Classification data. The graphic was created for Georgetown University’s Data Visualization course, taught by Maureen Linke of The Washington Post. (Graphic by Brittany McAlister, Georgetown University journalism master's student)
 
 WASHINGTON, D.C. (GEORGETOWN UNIVERSITY) — The hunger crisis in Gaza has reached a breaking point. Families are skipping meals, children are fainting in food lines, and aid trucks sit just miles away, unable to enter. For many humanitarian workers, the most painful part is knowing the food exists. But the people who need it most cannot reach it. 
 
@@ -35,7 +36,7 @@ With no way to bring the shipments in directly, NRC donated portions of its aid 
 
 <img width="6720" height="4480" alt="IMG_9757" src="https://github.com/user-attachments/assets/204fae8f-e099-4383-8c82-ff6002120a94" />
 
-The Norwegian Refugee Council shelter team distributes sealing-of kits and tents at a displacement site in Gaza on Dec. 23, 2024, to help weatherproof temporary shelters for families. (Photo by Amjad Al Fayoumi/NRC) 
+A Norwegian Refugee Council field worker carries a wrapped sealing-off kit inside a building in Gaza on Dec. 23, 2024. The organization distributed sealing-off kits and tents at displacement sites to help families weatherproof temporary shelters. (Photo by Amjad Al Fayoumi/Norwegian Refugee Council) 
 
 Low told Georgetown University that the restrictions are not limited to border closures. Even organizations that are allowed to bring in aid face unpredictable rules about what items can enter. She said some supplies are authorized one week, blocked the next, and then reauthorized later, creating delays throughout the pipeline. 
 
@@ -51,7 +52,7 @@ Humanitarian agencies say [Gaza’s border system](https://www.ochaopt.org/data/
 
 <img width="1240" height="1390" alt="Locator Map Graphic" src="https://github.com/user-attachments/assets/318cde62-83fb-4a7b-ad76-2a9d900ac743" />
 
-A graphic created by Brittany McAlister for Georgetown University’s "Data Visualization," taught by Maureen Linke of The Washington Post
+A locator map shows border crossings and logistics hubs affecting the delivery of food and emergency supplies into Gaza from 2023 to 2026, based on United Nations data. The graphic was created for Georgetown University’s Data Visualization course, taught by Maureen Linke of The Washington Post. (Graphic by Brittany McAlister, Georgetown University journalism master's student)
 
 Low said Israeli authorities now cite the NRC’s expired registration as the reason the group cannot bring in aid or international staff. But she explained that the registration process itself has been turned into a wall. 
 
@@ -63,7 +64,7 @@ Instead, the restrictions seem to fall hardest on organizations that speak out a
 
 <img width="6720" height="4480" alt="IMG_9761" src="https://github.com/user-attachments/assets/bb7b9e83-417e-4910-8319-98ae30034c20" />
 
-The Norwegian Refugee Council shelter team distributes sealing-of kits and tents at a displacement site in Gaza on Dec. 23, 2024, to help weatherproof temporary shelters for families. (Photo by Amjad Al Fayoumi/NRC)
+Norwegian Refugee Council staff members speak with a woman at a registration table in Gaza on Dec. 23, 2024. The organization's shelter team distributed sealing-off kits and tents at displacement sites to help families weatherproof temporary shelters. (Photo by Amjad Al Fayoumi/Norwegian Refugee Council) 
 
 “It’s an attempt to stifle aid agencies that are reporting on what they’re seeing,” Low said. 
 
@@ -83,7 +84,7 @@ Food‑aid deliveries across the Middle East dropped sharply between late 2023 a
 
 <img width="1600" height="1700" alt="Faceted_Step_Chart_Graphic" src="https://github.com/user-attachments/assets/be8e8b3e-473f-46c2-96f7-e2d2f6af0796" />
 
-A graphic created by Brittany McAlister for Georgetown University’s "Data Visualization," taught by Maureen Linke of The Washington Post
+A faceted step chart tracks monthly food aid deliveries in metric tons across Lebanon, Gaza and Yemen between October 2023 and October 2024, based on World Food Program data. The graphic was created for Georgetown University’s Data Visualization course, taught by Maureen Linke of The Washington Post. (Graphic by Brittany McAlister, Georgetown University journalism master's student) 
 
 Aid groups say the declines reflect how fighting, border closures, and funding shortages have disrupted supply chains across the region. 
 
