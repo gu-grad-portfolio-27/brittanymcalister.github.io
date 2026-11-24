@@ -124,5 +124,3 @@ p + em, p:has(img) + p {
     text-align: center !important;
 }
 </style>
-No reuse, copying, or modification of this story or its assets is permitted without explicit permission.
-
