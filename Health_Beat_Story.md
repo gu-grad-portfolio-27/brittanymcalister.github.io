@@ -99,7 +99,7 @@ margin: 40px auto !important;
 }
 .markdown-body, .markdown-body p, .markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body em, .markdown-body span {
 color: #ffffff !important;  
-}
+} 
 .markdown-body a {
 color: #d67a43 !important; /* Beautiful, readable earthy terracotta orange */
 text-decoration: underline !important; /* Adds a clean underline to clearly signal a link */
