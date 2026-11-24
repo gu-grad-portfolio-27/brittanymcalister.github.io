@@ -15,7 +15,7 @@ Across separate conversations, Ollstein and Whyte broke down how they translate 
 
 The following interviews have been edited and condensed for length and clarity.
 
-# Cutting Through Jargon and Corporate Spin
+## Cutting Through Jargon and Corporate Spin
 
 Whether dealing with legislative text or corporate executives, both reporters said clarity starts long before an article is published.
 
@@ -27,7 +27,7 @@ When Whyte interviews pharmaceutical executives, lobbyists or hospital leaders, 
 
 "If you do not really know which way is up when you are talking to someone — let us say it is a CEO and you do not have a sense of how their company has been doing the last few years — it is hard to press through talking points," Whyte said. "But if you are well-versed in the situation, how their company has been doing, or what they have been up to, then it is a little bit easier to say, 'Well, but this happened. What about that?'"
 
-# Following the Money and Spotting the Story
+## Following the Money and Spotting the Story
 
 In Washington, a flood of press releases, lawsuits and newly introduced bills hits reporters' inboxes every hour. Separating routine political theater from genuine news takes instinct and patience.
 
@@ -39,7 +39,7 @@ When Whyte wants to see who is quietly pushing a policy or drug behind the scene
 
 A recent Journal story examining private equity firms buying up kidney care centers, she added, started simply from working the phones. As for knowing when a small tip points to a major scandal, Whyte relies on a rule of thumb from a colleague: "Look for stories that seep and ooze. That means it just seems like there is all kinds of fishy stuff going on, and not just a couple of things."
 
-# Navigating Misinformation and Fairness
+## Navigating Misinformation and Fairness
 
 Health reporters today also have to contend with viral medical claims and polarized debates. Both journalists stressed that credibility depends on strict sourcing and proportionality.
 
@@ -55,7 +55,7 @@ When covering online health influencers or public figures spreading unverified m
 
 On divisive policy fights, Ollstein said true fairness has nothing to do with counting quotes from opposing sides. "It is about being equally critical and rigorous no matter who you are talking to," she said. "If you think you have a completely black-and-white, solid opinion about an issue, it probably means you have not asked enough questions."
 
-# Building Trust and Covering New Territory
+## Building Trust and Covering New Territory
 
 Because health care intersects with immigration, the environment, technology and finance, reporters frequently find themselves stepping outside their comfort zones. Ollstein [leans](https://www.politico.com/news/2025/05/31/they-are-the-backbone-trumps-targeting-of-legal-immigrants-threatens-health-sector-00377579) on newsroom collaboration — partnering with colleagues on other beats — and never hesitates to call academics or think tank scholars to ask basic questions.
 
@@ -63,7 +63,7 @@ Because health care intersects with immigration, the environment, technology and
 
 When approaching vulnerable sources such as patients or whistleblowers, Ollstein said radical transparency is nonnegotiable: explain what the story is about, clarify who else is being interviewed, ask permission before hitting record and offer anonymity only when someone faces a concrete risk, like losing their job.
 
-# Survival Advice for New Reporters
+## Survival Advice for New Reporters
 
 Transitioning from long-term investigations at a nonprofit newsroom to daily deadlines at The Wall Street Journal taught Whyte to appreciate both rhythms — the depth of multi-month projects and the immediate satisfaction of filing daily news.
 
@@ -76,3 +76,51 @@ Protect your mental health: "Make sure to have hobbies outside of work and frien
 Support newsroom unions: "Unions make a huge, positive difference and give journalists the stability to do their best work. If you get hired by an outlet with a union, join right away and get involved."
 
 Ultimately, both reporters' experiences point to the same conclusion: whether tracking corporate money trails or translating federal rules for everyday readers, great health journalism comes down to thorough preparation, honest relationships and relentless phone reporting.
+
+***
+
+© 2026 Brittany McAlister. All rights reserved. 
+No reuse, copying, or modification of this story or its assets is permitted without explicit permission.
+
+<style>
+body {
+background-image: url("Georgetown_042026.jpeg") !important;
+background-size: cover !important;
+background-position: center !important;
+background-attachment: fixed !important;
+background-repeat: no-repeat !important;
+}
+.markdown-body {
+background: rgba(34, 61, 44, 0.85) !important; /* Elegant semi-transparent earthy green card */
+padding: 40px !important; /* Adds professional padding around your text */
+border-radius: 12px !important; /* Rounds the corners of your container card */
+max-width: 850px !important; /* Keeps the article perfectly centered and balanced */
+margin: 40px auto !important;
+}
+.markdown-body, .markdown-body p, .markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body em, .markdown-body span {
+color: #ffffff !important;  
+}
+.markdown-body a {
+color: #d67a43 !important; /* Beautiful, readable earthy terracotta orange */
+text-decoration: underline !important; /* Adds a clean underline to clearly signal a link */
+}
+p:has(img) {
+text-align: center !important;
+}
+img {
+display: block !important;
+width: 550px !important;
+height: 550px !important;
+object-fit: cover !important;
+object-position: top center !important;
+margin: 20px auto 10px auto !important;
+}
+p + em, p:has(img) + p {
+display: block !important;
+font-size: 14px !important;
+font-style: italic !important;
+max-width: 550px !important;
+margin: 0 auto 30px auto !important;
+text-align: center !important;
+}
+</style>
