@@ -5,7 +5,7 @@
 * [Read Article: 'We're Paying the Price for Their Policies'](Ward_5_High_Costs.md)
 * [Read Article: When College Presidents Go Silent, One D.C. Leader](DC_College_President.md)
 * [Read Article: From General’s Son to Capitol Hill Activist](Activist_Miko_Peled.md)
-* [Read Article: Inside the Health Beat](Health_Beat_Reporters.html)
+* [Read Article: Inside the Health Beat](Health_Beat_Reporters.md)
       
 ## About
 
