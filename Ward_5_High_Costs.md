@@ -72,7 +72,6 @@ As household budgets remain tight, Ward 5 residents continue to speak out about 
 © 2026 Brittany McAlister. All rights reserved. 
 No reuse, copying, or modification of this story or its assets is permitted without explicit permission.
 
-
 <style>
 body {
 background-image: url("Georgetown_042026.jpeg") !important;
