@@ -1,7 +1,7 @@
 # From General’s Son to Capitol Hill Activist: Miko Peled’s Unwavering Fight for Palestinian Freedom
 By Brittany McAlister 
 / Graduate Studies Journalism Portfolio 
-/ November 22, 2026
+/ November 22, 2026 
 
 <img width="2048" height="1536" alt="Miko_Peled_Image1" src="https://github.com/user-attachments/assets/1b8d3081-e74d-4dea-a38d-10fc8087c6f7" />
 
