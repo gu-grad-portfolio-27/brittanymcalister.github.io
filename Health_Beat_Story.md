@@ -69,11 +69,11 @@ Transitioning from long-term investigations at a nonprofit newsroom to daily dea
 
 For students entering the field, Ollstein offered three practical rules for building a sustainable career:
 
-Own your mistakes immediately: "If you mess up, do not try to cover it up or minimize it. Bite the bullet and tell your editor, apologize and ask how to make it right. I have seen people get fired for things that could have been forgiven if they had just been honest about it from the start."
-
-Protect your mental health: "Make sure to have hobbies outside of work and friends who do not work in journalism. This is crucial for mental health. Also, take sick days and vacation days when you need them. Do not be a martyr and work yourself to death."
-
-Support newsroom unions: "Unions make a huge, positive difference and give journalists the stability to do their best work. If you get hired by an outlet with a union, join right away and get involved."
+* **Own your mistakes immediately:** "If you mess up, do not try to cover it up or minimize it. Bite the bullet and tell your editor, apologize and ask how to make it right. I have seen people get fired for things that could have been forgiven if they had just been honest about it from the start."
+  
+* **Protect your mental health:** "Make sure to have hobbies outside of work and friends who do not work in journalism. This is crucial for mental health. Also, take sick days and vacation days when you need them. Do not be a martyr and work yourself to death."
+  
+* **Support newsroom unions:** "Unions make a huge, positive difference and give journalists the stability to do their best work. If you get hired by an outlet with a union, join right away and get involved."
 
 Ultimately, both reporters' experiences point to the same conclusion: whether tracking corporate money trails or translating federal rules for everyday readers, great health journalism comes down to thorough preparation, honest relationships and relentless phone reporting.
 
@@ -84,43 +84,45 @@ No reuse, copying, or modification of this story or its assets is permitted with
 
 <style>
 body {
-background-image: url("Georgetown_042026.jpeg") !important;
-background-size: cover !important;
-background-position: center !important;
-background-attachment: fixed !important;
-background-repeat: no-repeat !important;
+    background-image: url("Georgetown_042026.jpeg") !important;
+    background-size: cover !important;
+    background-position: center !important;
+    background-attachment: fixed !important;
+    background-repeat: no-repeat !important;
 }
 .markdown-body {
-background: rgba(34, 61, 44, 0.85) !important; /* Elegant semi-transparent earthy green card */
-padding: 40px !important; /* Adds professional padding around your text */
-border-radius: 12px !important; /* Rounds the corners of your container card */
-max-width: 850px !important; /* Keeps the article perfectly centered and balanced */
-margin: 40px auto !important;
+    background: rgba(34, 61, 44, 0.85) !important;
+    padding: 40px !important;
+    border-radius: 12px !important;
+    max-width: 850px !important;
+    margin: 40px auto !important;
 }
-.markdown-body, .markdown-body p, .markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body em, .markdown-body span {
-color: #ffffff !important;  
+.markdown-body, .markdown-body p, .markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body em, .markdown-body span, .markdown-body li {
+    color: #ffffff !important;  
 } 
 .markdown-body a {
-color: #d67a43 !important; /* Beautiful, readable earthy terracotta orange */
-text-decoration: underline !important; /* Adds a clean underline to clearly signal a link */
+    color: #d67a43 !important;
+    text-decoration: underline !important;
 }
 p:has(img) {
-text-align: center !important;
+    text-align: center !important;
 }
 img {
-display: block !important;
-width: 550px !important;
-height: 550px !important;
-object-fit: cover !important;
-object-position: top center !important;
-margin: 20px auto 10px auto !important;
+    display: block !important;
+    width: 550px !important;
+    height: 550px !important;
+    object-fit: cover !important;
+    object-position: top center !important;
+    margin: 20px auto 10px auto !important;
 }
 p + em, p:has(img) + p {
-display: block !important;
-font-size: 14px !important;
-font-style: italic !important;
-max-width: 550px !important;
-margin: 0 auto 30px auto !important;
-text-align: center !important;
+    display: block !important;
+    font-size: 14px !important;
+    font-style: italic !important;
+    max-width: 550px !important;
+    margin: 0 auto 30px auto !important;
+    text-align: center !important;
 }
 </style>
+No reuse, copying, or modification of this story or its assets is permitted without explicit permission.
+
